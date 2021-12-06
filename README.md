@@ -5,6 +5,12 @@
 ![Profile views](https://gpvc.arturio.dev/PrashantBhandari666) 
 <img src="https://img.shields.io/github/followers/PrashantBhandari666?label=Followers&style=social" alt="GitHub Badge">
 
+<div align="Center">
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrashantBhandari666)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prashant.bhandari.58118774)
+
+</div>
+
 </div>
 
 <h2 align="center">I'm a Student, Developer, and Learner!!</h2>
@@ -12,14 +18,6 @@
 * 🌱 I’m currently learning everything.
 * 📫 Trying to imporve myself everyday.
 * ⚡ Fun Fact: I love Heavy Metal🤘.
-
-<div align="Center">
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrashantBhandari666)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prashant.bhandari.58118774)
-
-</div>
-
-
 
 <div align="Center">
 
