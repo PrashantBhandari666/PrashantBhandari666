@@ -2,7 +2,6 @@
 
 <div align="Center">
 
-![Profile views](https://gpvc.arturio.dev/PrashantBhandari666) 
 <img src="https://img.shields.io/github/followers/PrashantBhandari666?label=Followers&style=social" alt="GitHub Badge">
 
 <div align="Center">
